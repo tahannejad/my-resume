@@ -1,0 +1,94 @@
+{
+    "title": "Hello I'm Mahdi",
+    "subtitle": "Full Stack Dev | Open-Source Enthusiast",
+    "links": {
+        "github": "https://github.com/tahannejad",
+        "stackoverflow": "https://stackoverflow.com/story/tahannejad",
+        "linkedin": "https://www.linkedin.com/in/mahdi-tahannejad-92a943182",
+        "instagram": "https://www.instagram.com/m.tahannejad"
+    },
+    "sections":[
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "My name is Mohammad Mahdi Tahannejad."
+                },
+                {
+                    "type": "p",
+                    "content": "I love to learn."
+                },
+                {
+                    "type": "p",
+                    "content": "I beleive in self-learning."
+                },
+                {
+                    "type": "p",
+                    "content": "When my dev senses kicked-in I build presumably awesome stuff.I stay close to the community and try to keep tabs with the pace at which the web is evolving.I also like to blog what I learn"
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/SQL-SERVER.png",
+                        "title": "SQL Server"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/C-Sharp.png",
+                        "title": "C#"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/ASP.png",
+                        "title": "ASP.net"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/Unity.png",
+                        "title": "Unity"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/React.svg",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/js.png",
+                        "title": "JavaScript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/CSS.png",
+                        "title": "CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "images/HTML.png",
+                        "title": "HTML"
+                    }
+                }
+            ]
+        }
+    ]
+}
